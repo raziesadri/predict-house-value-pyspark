@@ -1,4 +1,4 @@
-# Prediction of house value project by pyspark
+# Prediction of house value by pyspark
 macine learing with pyspark
 
 This project is a machine learning task of house values prediction. the dataset is from kaggle California Housing Prices, which is done by pyspark module of python. 
